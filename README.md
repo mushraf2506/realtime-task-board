@@ -56,7 +56,9 @@ cd packages/frontend && npm test
 
 ## Deployment
 
-**Live URL:** _Add after deploying to Railway/Render_
+**Live URL:** https://adequate-enjoyment-production-4344.up.railway.app
+
+**Backend API:** https://realtime-task-board-production.up.railway.app
 
 ### Deploying to Railway
 
